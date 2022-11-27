@@ -1,0 +1,17 @@
+[
+  {
+    "key": "../csv/sample_submission.csv",
+    "label": "sample_submission.csv",
+    "value": "../csv/sample_submission.csv"
+  },
+  {
+    "key": "../csv/train_image_level.csv",
+    "label": "train_image_level.csv",
+    "value": "../csv/train_image_level.csv"
+  },
+  {
+    "key": "../csv/train_study_level.csv",
+    "label": "train_study_level.csv",
+    "value": "../csv/train_study_level.csv"
+  }
+]
