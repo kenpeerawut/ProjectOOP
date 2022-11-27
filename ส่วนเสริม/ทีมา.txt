@@ -1,0 +1,46 @@
+youtube แฉลว
+https://www.youtube.com/playlist?list=PL19c6iw3kE3D31XY0PTo6LnG0RM9O803b
+----------------------------------------
+Drive
+https://kmutnbacth-my.sharepoint.com/personal/s6304062620088_kmutnb_ac_th/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fs6304062620088%5Fkmutnb%5Fac%5Fth%2FDocuments%2Fkmutnb%2F%E0%B8%99%E0%B8%B1%E0%B8%97%2F%E0%B8%9B%E0%B8%B52%2F%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A11%2Foop&ga=1
+---------------------------------------
+ขั้นตอน
+https://www.youtube.เอา
+Py 
+Backend
+
+Terminal
+Cd backend
+- npm init -y
+- 7อัน
+Express
+Cors
+Nodemon
+
+ล่างtest
+Dev :nodemon server
+
+BuildTree
+Index.js
+Cd listmake
+Node tab run
+
+สร้างfolder csv 
+ใส่csv
+ เปลี่ยน listmake เป็นcsv บันทัด2  บันทัด3../csv
+
+ เอาในcsv.json ไปใส่ในken.json
+
+ลบsrc เอาsrcของfinallyมาใส่
+
+เปิดTerminal 3อัน
+Project npm start
+Python py photo.py
+Backend npm rundev    เอาnut.jsonมาใส่src
+
+
+เปิดterminal ลงlibrary
+
+Cd project ลง npmcom/watch?v=FVLmpcGpkbk
+
+------------------------------------------
